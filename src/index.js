@@ -1,7 +1,5 @@
 'use sctrict'
 
-// Inner volume of sphere equals 4/3 * Pi * R^3
-
 const n = 12
 const wallThickness = 0.01
 
